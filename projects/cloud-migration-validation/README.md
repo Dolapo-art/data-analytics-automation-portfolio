@@ -17,5 +17,8 @@ Jira · Confluence · resource reconciliation · UAT · compatibility assessment
 ## Deliverable
 Documented validation and UAT checks supporting migration review. Collaborative project associated with Alluvium.
 
-## Evidence status
-The case study is based on my [LinkedIn project description](https://www.linkedin.com/in/dolapo-adeniyi/details/projects/). Original validation tables and supporting assets have not yet been added.
+## Evidence and example
+
+Original employer validation tables are not distributed. [Run the separate Python/SQL reconciliation example](../../examples/migration-reconciliation/README.md) to inspect missing-category handling and count comparisons using synthetic data. This new, AI-assisted example illustrates the approach; it is not recovered code from the original engagement.
+
+[Back to portfolio](../../README.md)
