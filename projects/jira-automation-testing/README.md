@@ -14,5 +14,8 @@ Jira · Jira Automation · Kanban · test issues · activity-log review
 ## Deliverable
 Tested rule behaviour and issue lifecycle checks. Collaborative project associated with Alluvium.
 
-## Evidence status
-This case study is based on my [LinkedIn project description](https://www.linkedin.com/in/dolapo-adeniyi/details/projects/). Original rule exports and supporting screenshots have not yet been added.
+## Evidence
+
+An edited recording is available in the [demonstration index](../../demonstrations/README.md), together with its scope and limitations. Full rule exports, comments and audit logs are not included in this excerpt.
+
+[Back to portfolio](../../README.md)
