@@ -14,5 +14,8 @@ Python · psycopg2 · Pandas · PostgreSQL · SQL · CSV
 ## Deliverable
 An automated resource-count snapshot suitable for analysis and operational reporting. Project associated with Alluvium.
 
-## Evidence status
-This case study reflects the project description published on my [LinkedIn projects page](https://www.linkedin.com/in/dolapo-adeniyi/details/projects/). The original script and demonstration CSV have not yet been added to this repository.
+## Evidence
+
+An edited recording is available in the [demonstration index](../../demonstrations/README.md), together with its scope and limitations. Original employer source code and CSV data are not distributed.
+
+[Back to portfolio](../../README.md)
