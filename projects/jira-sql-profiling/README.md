@@ -15,4 +15,7 @@ SQL · PostgreSQL · DBeaver
 A consolidated resource-count query for database profiling and instance analysis.
 
 ## Evidence status
-This case study summarizes the work described on my [LinkedIn projects page](https://www.linkedin.com/in/dolapo-adeniyi/details/projects/). The original SQL file and query outputs have not yet been added.
+
+This case study summarizes the work described on my [LinkedIn projects page](https://www.linkedin.com/in/dolapo-adeniyi/details/projects/). The original SQL file and query outputs are not distributed. A [separate runnable SQL reconciliation example](../../examples/migration-reconciliation/README.md) is available using synthetic data; it is not the original profiling query.
+
+[Back to portfolio](../../README.md)
