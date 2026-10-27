@@ -1,0 +1,6 @@
+line_id,order_id,order_date,state,channel,product,category,quantity,returned_units,unit_price_ngn,unit_cost_ngn,discount_pct,status
+BAD-0,O0001,2025-04-25,Lagos,Online,Wireless mouse,Technology,-1,0,14000,8500,0,Completed
+BAD-1,O0001,2025-04-25,Lagos,Online,Laptop stand,Technology,-1,0,22000,14000,0,Completed
+BAD-2,O0001,2025-04-25,Lagos,Online,USB hub,Technology,-1,0,19000,12000,0,Completed
+BAD-3,O0002,2026-07-13,Abuja,Online,Keyboard,Technology,-1,0,25000,16000,0,Completed
+BAD-4,O0003,2025-08-09,Kano,Online,Storage box,Home & Office,-1,0,11000,6000,10,Completed
