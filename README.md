@@ -2,12 +2,13 @@
 
 SQL/PostgreSQL, Python and Power BI, applied to reliable reporting, workflow automation and business systems.
 
-I work on checking operational data, investigating discrepancies, validating system changes and documenting repeatable processes. This portfolio brings together project case studies and edited demonstrations from my work associated with Alluvium, alongside a runnable example using synthetic data.
+I work on checking operational data, investigating discrepancies, validating system changes and documenting repeatable processes. This portfolio brings together project case studies and edited demonstrations from my work associated with Alluvium, alongside runnable projects using synthetic data.
 
 ## Start here
 
 - **See the work:** [Three short project demonstrations](demonstrations/README.md), with confidential details removed.
 - **Run an example:** [Python + SQL migration reconciliation](examples/migration-reconciliation/README.md). Includes sample data, generated output and validation tests. No external accounts required.
+- **Explore the sales project:** [Retail Sales Performance](projects/sales-performance-dashboard/README.md), including a static preview, Python/SQL analysis, DAX and an editable Power BI project archive.
 - **Review the approach:** Explore the case studies below for the business question, my contribution, tools and evidence.
 
 ## Featured projects
@@ -22,13 +23,15 @@ I work on checking operational data, investigating discrepancies, validating sys
 
 ## Additional analytics projects
 
-[Sales Performance Dashboard](projects/sales-performance-dashboard/README.md) and [Customer Churn Prediction](projects/customer-churn-prediction/README.md) are summarized separately. Their original Power BI file and notebook are not currently published, so these summaries are not reproducible demonstrations.
+[Retail Sales Performance](projects/sales-performance-dashboard/README.md) is a new, AI-assisted synthetic portfolio project with reproducible data preparation, SQL, DAX, a static preview and downloadable Power BI project source. Python/SQL checks pass; Power BI Desktop rendering and refresh validation are pending. It does not reconstruct my original CV project.
+
+[Customer Churn Prediction](projects/customer-churn-prediction/README.md) remains a summary: the original notebook is not currently published.
 
 ## Evidence and confidentiality
 
-Published recordings are silent, edited excerpts with crops and blur masks. Neither the case studies nor the new example imply production certification.
+Published recordings are silent, edited excerpts with crops and blur masks. Neither the case studies nor the new projects imply production certification.
 
-Original employer scripts, database exports, credentials and client records are not distributed here. The runnable reconciliation example is newly created with AI assistance and explicitly uses synthetic data. Historical case studies describe my contribution; they should not be confused with the new example.
+Original employer scripts, database exports, credentials and client records are not distributed here. The runnable reconciliation example and retail sales project are newly created with AI assistance and explicitly use synthetic data. Historical case studies describe my contribution; they should not be confused with these new projects.
 
 ## Professional profile
 
