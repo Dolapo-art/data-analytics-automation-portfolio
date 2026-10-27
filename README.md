@@ -8,7 +8,7 @@ I work on checking operational data, investigating discrepancies, validating sys
 
 - **See the work:** [Three short project demonstrations](demonstrations/README.md), with confidential details removed.
 - **Run an example:** [Python + SQL migration reconciliation](examples/migration-reconciliation/README.md). Includes sample data, generated output and validation tests. No external accounts required.
-- **Explore the sales project:** [Retail Sales Performance](projects/sales-performance-dashboard/README.md), including a static preview, Python/SQL analysis, DAX and an editable Power BI project archive.
+- **Explore the dashboard in Customer Churn:** [Retail Sales Performance](projects/customer-churn-prediction/README.md#supporting-sales-dashboard), including a static preview, Python/SQL analysis, DAX and an editable Power BI project archive.
 - **Review the approach:** Explore the case studies below for the business question, my contribution, tools and evidence.
 
 ## Featured projects
@@ -23,9 +23,9 @@ I work on checking operational data, investigating discrepancies, validating sys
 
 ## Additional analytics projects
 
-[Retail Sales Performance](projects/sales-performance-dashboard/README.md) is a new, AI-assisted synthetic portfolio project with reproducible data preparation, SQL, DAX, a static preview and downloadable Power BI project source. Python/SQL checks pass; Power BI Desktop rendering and refresh validation are pending. It does not reconstruct my original CV project.
+[Retail Sales Performance](projects/customer-churn-prediction/README.md#supporting-sales-dashboard) is a new, AI-assisted synthetic portfolio project with reproducible data preparation, SQL, DAX, a static preview and downloadable Power BI project source. Python/SQL checks pass; Power BI Desktop rendering and refresh validation are pending. It does not reconstruct my original CV project.
 
-[Customer Churn Prediction](projects/customer-churn-prediction/README.md) remains a summary: the original notebook is not currently published.
+[Customer Churn Prediction](projects/customer-churn-prediction/README.md) retains the CV project summary (Python, Pandas and Scikit-learn). Its original notebook and evaluation results are not currently published. The section also houses the separately labelled synthetic sales dashboard.
 
 ## Evidence and confidentiality
 
