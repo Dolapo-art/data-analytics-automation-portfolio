@@ -1,0 +1,11 @@
+Net Revenue = SUM(Sales[net_revenue_ngn])
+
+Gross Profit = SUM(Sales[gross_profit_ngn])
+
+Gross Margin % = DIVIDE([Gross Profit], [Net Revenue])
+
+Completed Orders = CALCULATE(DISTINCTCOUNT(Sales[order_id]), Sales[status] = "Completed")
+
+Average Order Value = DIVIDE([Net Revenue], [Completed Orders])
+
+Returned Unit Rate = DIVIDE(CALCULATE(SUM(Sales[returned_units]), Sales[status] = "Completed"), CALCULATE(SUM(Sales[quantity]), Sales[status] = "Completed"))
