@@ -1,0 +1,4 @@
+Customer Churn Analysis & Classification | Python, Pandas, Scikit-learn, SQL
+Built a reproducible churn-classification pipeline on 7,043 public sample customers, with training-only preprocessing and separate validation/test sets. Achieved 0.833 ROC–AUC and 65.5% churn recall on 1,409 held-out customers, and created an interactive dashboard for contract and tenure analysis.
+
+Use this for the new October 2026 rebuild. Its measured accuracy is 77.8% at the validation-selected threshold. Do not describe it as the historical approximately 85% accuracy project or a production deployment.

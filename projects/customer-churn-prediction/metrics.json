@@ -1,0 +1,104 @@
+{
+  "seed": 42,
+  "source": "https://github.com/IBM/telco-customer-churn-on-icp4d/blob/master/data/Telco-Customer-Churn.csv",
+  "source_sha256": "16320c9c1ec72448db59aa0a26a0b95401046bef5d02fd3aeb906448e3055e91",
+  "rows": 7043,
+  "churned": 1869,
+  "observed_churn_rate": 0.2653698707936959,
+  "blank_total_charges": 11,
+  "split_sizes": {
+    "train": 4225,
+    "validation": 1409,
+    "test": 1409
+  },
+  "threshold": 0.4099999999999999,
+  "threshold_selection": "Maximum validation F1; tie breaks toward higher threshold",
+  "validation_f1": 0.6550435865504358,
+  "baseline": {
+    "accuracy": 0.7345635202271115,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "roc_auc": 0.5,
+    "average_precision": 0.2654364797728886,
+    "confusion_matrix": [
+      [
+        1035,
+        0
+      ],
+      [
+        374,
+        0
+      ]
+    ]
+  },
+  "test": {
+    "accuracy": 0.7778566359119943,
+    "precision": 0.5710955710955711,
+    "recall": 0.6550802139037433,
+    "f1": 0.6102117061021171,
+    "roc_auc": 0.8328166576248418,
+    "average_precision": 0.625481070883197,
+    "confusion_matrix": [
+      [
+        851,
+        184
+      ],
+      [
+        129,
+        245
+      ]
+    ]
+  },
+  "test_at_0_5": {
+    "accuracy": 0.7885024840312278,
+    "precision": 0.6172839506172839,
+    "recall": 0.5347593582887701,
+    "f1": 0.5730659025787965,
+    "roc_auc": 0.8328166576248418,
+    "average_precision": 0.625481070883197,
+    "confusion_matrix": [
+      [
+        911,
+        124
+      ],
+      [
+        174,
+        200
+      ]
+    ]
+  },
+  "feature_columns": [
+    "tenure",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod",
+    "MonthlyCharges",
+    "TotalCharges"
+  ],
+  "excluded_columns": [
+    "customerID",
+    "Churn",
+    "ChurnFlag",
+    "TenureBand",
+    "gender",
+    "SeniorCitizen",
+    "Partner",
+    "Dependents"
+  ],
+  "versions": {
+    "python": "3.12.14",
+    "pandas": "2.2.3",
+    "numpy": "2.3.5",
+    "sklearn": "1.8.0"
+  }
+}
